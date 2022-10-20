@@ -29,7 +29,7 @@ namespace RealEstateManagmentSystem
             List<SqlParamater> paramaters = new List<SqlParamater>();
             paramaters.Add(new SqlParamater("@email", textBoxEmail.Text));
             paramaters.Add(new SqlParamater("@Password", textBoxPassword.Text));
-            String ss = Core.RunScalar(@"SELECT[dbo].[EmployeeTableValidationUser](@email,@password)AS TotalEmployee;", paramaters);
+            String ss = core.RunScalar(@"SELECT[dbo].[EmployeeTableValidationUser](@email,@password)AS TotalEmployee;", paramaters);
             if (int.Parse(ss) == 1)
             {
                 return true;
