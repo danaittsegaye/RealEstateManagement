@@ -1,7 +1,0 @@
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.csproj.AssemblyReference.cache
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.csproj.SuggestedBindingRedirects.cache
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.FormSignIn.resources
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.Properties.Resources.resources
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.Resource1.resources
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.csproj.GenerateResource.cache
-C:\Users\hp\Documents\new\RealEstateManagement\RealEstateManagmentSystem\RealEstateManagmentSystem\obj\Debug\RealEstateManagmentSystem.csproj.CoreCompileInputs.cache
